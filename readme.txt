@@ -13,3 +13,5 @@ set backspace+=indent,eol,start
 " translated to English).
   version control system.
 Git is free software under the GPL.
+lsb
+Git tracks changes
