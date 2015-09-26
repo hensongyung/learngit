@@ -15,3 +15,4 @@ set backspace+=indent,eol,start
 Git is free software under the GPL.
 lsb
 Git tracks changes
+lsb
