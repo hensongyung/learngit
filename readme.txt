@@ -12,4 +12,4 @@ set backspace+=indent,eol,start
 " the entire MacVim menu is set up in a nib file which currently only is
 " translated to English).
   version control system.
-Git is free software.
+Git is free software under the GPL.
